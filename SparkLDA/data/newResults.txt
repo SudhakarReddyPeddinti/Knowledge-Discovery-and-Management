@@ -1,0 +1,9 @@
+
+Corpus summary:
+	 Training set size: 273 documents
+	 Preprocessing time: 9.324010672 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 4.590597382 sec
+	 Training data average log likelihood: -248.22712521062346
+
